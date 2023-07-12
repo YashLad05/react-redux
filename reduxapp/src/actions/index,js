@@ -1,0 +1,15 @@
+// All the Redux Actions will be added here
+// Actions - What to do?
+
+export const incNumber = () => { 
+    return{
+        type: "INCREMENT"
+     }
+}
+
+export const decNumber = () => { 
+    return{
+        type: "DECREMENT"
+    }
+}
+// We have to Export these action Functions, so they can be used again. 

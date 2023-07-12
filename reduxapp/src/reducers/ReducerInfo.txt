@@ -1,0 +1,11 @@
+Reducers - How to do?
+
+In this folder, we can create Multiple Reducers
+Name of reducer will be the .js file Name
+
+In our Example -
+"upDown" is reducer name and "upDown.js" is that reducer file
+
+When "Action" and "Reducer" are created,
+then we need "Store"
+For Store, we need only store.js file in src folder.
